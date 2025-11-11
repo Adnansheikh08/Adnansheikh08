@@ -9,6 +9,7 @@
 ## 👨‍💻 About Me
 
 💻 Google DG IU Event Co-organizer || Data Structures and Algorithms || React Js || Express Js || Node Js|| Tailwind Css|| Bootstrap|| Mongo DB|| SQL || PHP || Laravel || Apache || Figma
+<br/>
 🚀Name's Adnan,a full stack developer with a strong foundation in frontend development and a growing expertise in backend technologies. I have hands-on experience building user-centric, scalable web applications, including my recent project,  a healthcare platform designed to simplify medical services for users. I thrive in creating intuitive, responsive designs while ensuring seamless functionality on the backend.Currently,
 
  I’m expanding my knowledge of backend frameworks and cloud technologies to build even more robust and efficient solutions. I’m always excited to collaborate on projects that challenge me to learn and grow, while contributing meaningful solutions to real-world problems. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">
