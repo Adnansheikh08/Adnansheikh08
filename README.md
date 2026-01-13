@@ -7,8 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/ayushparikh-code/ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ## 👨‍💻 About Me
-
-💻 Google DG IU Event Co-organizer || Data Structures and Algorithms || React Js || Express Js || Node Js|| Tailwind Css|| Bootstrap|| Mongo DB|| SQL || PHP || Laravel || Apache || Figma
 <br/>
 🚀Name's Adnan,a full stack developer with a strong foundation in frontend development and a growing expertise in backend technologies. I have hands-on experience building user-centric, scalable web applications, including my recent project,  a healthcare platform designed to simplify medical services for users. I thrive in creating intuitive, responsive designs while ensuring seamless functionality on the backend.Currently,
 
